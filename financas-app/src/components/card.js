@@ -1,4 +1,5 @@
-import React, { Children } from "react";
+
+import React from "react";
 
 class Card extends React.Component{
     render(){
